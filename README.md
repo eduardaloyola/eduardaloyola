@@ -2,7 +2,7 @@
 Sou estudante de desenvolvimento e apaixonada por tecnologia, aprendizado constante e por transformar ideias em soluções reais.
 
 ### 🚀 Sobre mim
-- 🎓 Atualmente estudando **Desenvolvimento de Software / Programação**
+- 🎓 Atualmente estudando **Desenvolvimento de Software / Programação** e Cursando **Bacharelado Interdisciplinar em Ciência e Tecnologia** na **Universidade Federal da Bahia (UFBA)**
 - 💻 Buscando oportunidades para **colaborar em projetos reais** e aprender na prática
 - 🌱 Aprendendo constantemente novas tecnologias e boas práticas de código
 
