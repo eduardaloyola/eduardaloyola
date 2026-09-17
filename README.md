@@ -58,13 +58,5 @@ Atualmente integro a equipe de extensão da **Herdata**, onde desenvolvi o site 
 
 <hr>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardaloyola&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaloyola&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<hr>
 
 <p align="center"><i>Vamos trocar uma ideia sobre tecnologia? Manda um Zap ou e-mail. 🚀</i></p>
