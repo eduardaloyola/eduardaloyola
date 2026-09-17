@@ -21,7 +21,6 @@ No **front-end**, trabalho com React, TypeScript, Vite e Tailwind CSS. No **back
 
 Atualmente integro a equipe de extensão da **Herdata**, onde desenvolvi o site oficial com React, Vite, TypeScript e Tailwind CSS, unindo desenvolvimento web moderno, análise de dados e pesquisa científica em projetos com impacto real na comunidade.
 
-- 🔭 Atualmente trabalhando em: projetos da **Herdata** e automações internas na **FIEB**
 - 🌱 Aprendendo/aprofundando: TypeScript, arquitetura front-end e boas práticas de dados
 - 💬 Pergunte-me sobre: React, Python, automação de processos, Power BI
 - 📫 Como me encontrar: **eduardaloyoladev@gmail.com**
