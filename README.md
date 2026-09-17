@@ -67,4 +67,4 @@ Atualmente integro a equipe de extensão da **Herdata**, onde desenvolvi o site 
 
 ---
 
-<p align="center"><i>Vamos trocar uma ideia sobre tecnologia? Manda um Zap ou e-mail. 🚀</i></p>
+<p align="center"><i>Vamos trocar uma ideia sobre tecnologia? 🚀</i></p>
