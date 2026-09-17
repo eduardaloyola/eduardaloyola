@@ -11,7 +11,6 @@
   </a>
 </p>
 
----
 
 ### 🚀 Sobre mim
 
@@ -55,15 +54,6 @@ Atualmente integro a equipe de extensão da **Herdata**, onde desenvolvi o site 
 ### 📂 Projetos em destaque
 
 - **[Site para Coletivo HerData](https://github.com/eduardaloyola/Site-para-coletivo-HerData)** — Site desenvolvido com React, Vite, TypeScript e Tailwind CSS, com deploy via GitHub Pages, para atender demandas reais da comunidade e do mercado.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardaloyola&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaloyola&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
