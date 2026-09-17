@@ -1,63 +1,70 @@
-# 👋 Olá, eu sou a Eduarda Loyola!
+<h1 align="center">Olá, eu sou a Eduarda 👋</h1>
 
-🎓 Estudante do **Bacharelado Interdisciplinar em Ciência e Tecnologia** na **Universidade Federal da Bahia (UFBA)**, apaixonada por tecnologia, automação e pelo poder dos dados para gerar soluções inteligentes.
+<h3 align="center">Desenvolvedora Full Stack | Graduanda em Ciência e Tecnologia — UFBA</h3>
 
-## 🚀 Sobre mim
-
-* 🎓 Graduanda em Ciência e Tecnologia pela **UFBA**
-* 💼 Atualmente atuando com **automações de processos** durante o estágio, utilizando ferramentas como **n8n** e **Python**
-* 🤖 Desenvolvendo soluções para otimizar tarefas repetitivas, integrar sistemas e aumentar a eficiência operacional
-* 📊 Tenho grande interesse pela área de **Dados**, buscando constantemente aprender sobre análise, manipulação e visualização de informações
-
-
-## 🛠️ Tecnologias e Ferramentas
-
-### Linguagens
-
-* Python
-* JavaScript
-* HTML
-* CSS
-
-### Automação
-
-* n8n
-* OCR (EasyOCR e Tesseract)
-
-### Dados
-
-* SQL
-
-### Ferramentas
-
-* Git & GitHub
-* VS Code
-* Figma
-
-## 📚 Atualmente estudando
-
-* Automação de processos e integração de sistemas
-* Análise e tratamento de dados com Python
-* Desenvolvimento Web
-* Estruturas de Dados e Algoritmos
-* Boas práticas de programação e versionamento de código
-
-## 📂 Projetos em destaque
-
-* 📄 **Automação de extração de dados de documentos:** processamento de PDFs digitalizados utilizando OCR para extração automática de informações.
-* 🔄 **Fluxos automatizados com n8n:** criação de automações para otimização de processos e integração entre ferramentas.
-* 📊 **Projetos voltados para dados:** explorando análise, transformação e visualização de informações utilizando Python.
-
-## 📫 Vamos nos conectar?
-
-📧 **E-mail:** [eduardaloyoladev@gmail.com](mailto:eduardaloyoladev@gmail.com)
-
-💼 **LinkedIn:** https://www.linkedin.com/in/eduardaloyola/
-
-🐙 **GitHub:** https://github.com/eduardaloyola
+<p align="center">
+  <a href="https://linkedin.com/in/eduardaloyola">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:eduardaloyoladev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
+### 🚀 Sobre mim
 
+Graduanda em Ciência e Tecnologia pela UFBA, com experiência prática em desenvolvimento full stack.
 
+No **front-end**, trabalho com React, TypeScript, Vite e Tailwind CSS. No **back-end**, tenho vivência com Node.js, C# e Python, incluindo automação de processos e integração de sistemas. Também atuo em pesquisa científica e análise de dados.
 
+Atualmente integro a equipe de extensão da **Herdata**, onde desenvolvi o site oficial com React, Vite, TypeScript e Tailwind CSS, unindo desenvolvimento web moderno, análise de dados e pesquisa científica em projetos com impacto real na comunidade.
+
+- 🔭 Atualmente trabalhando em: projetos da **Herdata** e automações
+- 🌱 Aprendendo/aprofundando: TypeScript, arquitetura front-end e boas práticas de dados
+- 💬 Pergunte-me sobre: React, Python, automação de processos, Power BI
+- 📫 Como me encontrar: **eduardaloyoladev@gmail.com**
+
+---
+
+### 🛠️ Tecnologias e ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+---
+
+### 📂 Projetos em destaque
+
+- **[Herdata](https://github.com/)** — Site desenvolvido com React, Vite, TypeScript e Tailwind CSS, com deploy via GitHub Pages, para atender demandas reais da comunidade e do mercado.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center"><i>Vamos trocar uma ideia sobre tecnologia? Manda um Zap ou e-mail. 🚀</i></p>
