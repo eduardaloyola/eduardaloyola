@@ -11,7 +11,7 @@
   </a>
 </p>
 
----
+<hr>
 
 ### 🚀 Sobre mim
 
@@ -26,7 +26,7 @@ Atualmente integro a equipe de extensão da **Herdata**, onde desenvolvi o site 
 - 💬 Pergunte-me sobre: React, Python, automação de processos, Power BI
 - 📫 Como me encontrar: **eduardaloyoladev@gmail.com**
 
----
+<hr>
 
 ### 🛠️ Tecnologias e ferramentas
 
@@ -50,12 +50,21 @@ Atualmente integro a equipe de extensão da **Herdata**, onde desenvolvi o site 
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
----
+<hr>
 
 ### 📂 Projetos em destaque
 
 - **[Site para Coletivo HerData](https://github.com/eduardaloyola/Site-para-coletivo-HerData)** — Site desenvolvido com React, Vite, TypeScript e Tailwind CSS, com deploy via GitHub Pages, para atender demandas reais da comunidade e do mercado.
 
----
+<hr>
 
-<p align="center"><i>Vamos trocar uma ideia sobre tecnologia? 🚀</i></p>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardaloyola&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaloyola&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<hr>
+
+<p align="center"><i>Vamos trocar uma ideia sobre tecnologia? Manda um Zap ou e-mail. 🚀</i></p>
